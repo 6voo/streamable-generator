@@ -1,0 +1,6 @@
+random
+requests
+string
+os
+bs4
+colorama
